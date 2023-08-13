@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
+
+:root {
+  --cal-poly-green: #174a21;
+  --steel-blue: #1c7ed9;
+  --white: #fff;
+  --alice-blue: #edf5fd;
+  --onyx: #343a40;
+  --oxford-blue: #0c1b33;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+
+  font-weight: 400;
+  line-height: 1.6;
+
+  color: var(--onyx);
+  background: var(--white);
+}
+
+label {
+  font-weight: 400 !important;
+}
